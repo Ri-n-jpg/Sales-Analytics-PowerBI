@@ -169,5 +169,3 @@ Sales-Analytics-Dashboard/
 
 Ritika Sharma
 
-B.Tech Information Technology
-AKGEC Ghaziabad
